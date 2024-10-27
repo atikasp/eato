@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">EatO</string>
+    <string name="day1">Day 1</string>
+    <string name="name1">Acar</string>
+    <string name="ingredient1">1. Wortel\n2. Timun\n3. Cabe Merah\n4. Bawang Merah\n5. Cuka\n6.Garam\n7. Gula</string>
+    <string name="instruction1">1. Potong dadu wortel, timun, cabe, dan bawang\n2. Tempatkan di wadah beri cuka, gula, dan garam\n3. Aduk rata\n4. Diamkan di kulkas minimal 1 jam</string>
+
+    <string name="day2">Day 2</string>
+    <string name="name2">Bakwan Pecal</string>
+    <string name="ingredient2">1. Wortel\n2. Kol\n3. Jagung\n4. Tepung Terigu\n5. Air\n6.Garam\n7. Kaldu\n8. Bumbu Pecal</string>
+    <string name="instruction2">1. Rajang wortel, potong kol, dan serut jagung\n2. Tambahkan terigu, air, garam, dan kaldu\n3. Aduk rata sampai agak kental\n4. Goreng hingga kekuningan\n5. Sajikan dengan bumbu pecal</string>
+
+    <string name="day3">Day 3</string>
+    <string name="name3">Black Coffee</string>
+    <string name="ingredient3">1. Bubuk Kopi\n2. Air Panas</string>
+    <string name="instruction3">1. Tuang bubuk kopi atau biji kopi yang sudah digiling\n2. Tuang air panas\n3. Aduk dan sajikan.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="name4">Bolu Air Kukus</string>
+    <string name="ingredient4">1. 2 Telur\n2.200 gr Gula\n3. 1 sdt SP\n4. 250 gr Tepung Terigu\n5. 1 sdm Tepung Maizena\n6. 200 ml air/susu</string>
+    <string name="instruction4">1. Mixer dengan kecepatan tinggi telur, SP, dan gula hingga adonan kental, mengembang, dan berjejak\n2. Tuang air lanjut mixer kecepatan rendah\n3. Masukkan tepung secara bertahap\n4. Tuang adonan ke loyang\n5. Kukus selama 30 menit dengan api sedang. Pastikan kukusan sudah dipanaskan sebelumnya.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="name5">Bolu Almond Panggang</string>
+    <string name="ingredient5">1. 12 Kuning Telur\n2.120 gr Gula\n3. 200 gr Margarin yang dicairkan\n4. 100 gr Tepung Terigu\n5. 1 sdm Tepung Maizena\n6. 1 sdt Perisa Vanila</string>
+    <string name="instruction5">1. Mixer kuning telur dan gula hingga adonan kental\n2. Masukkan tepung lanjut mixer kecepatan rendah\n3. Masukkan sedikit adonan ke mentega cair, aduk sampai homogen\n4. Tuang cairan mentega ke kocokan kuning telur\n5. Tambhkan perisa lalu aduk balik hingga adonan tercampur rata.\n6. Tuang ke loyang yang sudah diolesi carlo\n7. Taburi dengan almond, lalu panggang di oven selama 20 menit dengan suhu 180 derajat. Pastikan oven sudah dipanaskan sebelumnya.</string>
+
+    <string name="day6">Day 6</string>
+    <string name="name6">Bolu Chocolatos Kukus</string>
+    <string name="ingredient6">1. 2 Telur\n2.200 gr Gula\n3. 1 sdt SP\n4. 250 gr Tepung Terigu\n5. 2 sachet chocolatos\n6. 200 ml air</string>
+    <string name="instruction6">1. Mixer dengan kecepatan tinggi telur, SP, dan gula hingga adonan kental, mengembang, dan berjejak\n2. Tuang air lanjut mixer kecepatan rendah\n3. Masukkan tepung dan chocolatos secara bertahap\n4. Tuang adonan ke loyang\n5. Kukus selama 15 menit dengan api kecil. Pastikan kukusan sudah dipanaskan sebelumnya.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="name7">Bolu Ketan Hitam</string>
+    <string name="ingredient7">1. 3 Telur\n2.100 gr Gula\n3. 1 bungkus santan\n4. 125 gr Tepung Ketan Hitam\n5. 100 ml minyak goreng\n6. 1 sdt SP\n7. ½ sdt baking powder</string>
+    <string name="instruction7">1. Mixer telur, sp, dan gula hingga adonan kental berjejak\n2. Masukkan tepung  dan baking powder sedikit demi sedikit sampai tercampur rata.\n3. Masukkan santan, lalu aduk\n4. Masukkan minyak goreng, aduk balik pakai spatula. Pastikan tidak ada minyak yang mengendap di dasar adonan.\n5. Tuang ke loyang yang sudah diolesi carlo\n6. Panggang di oven selama 30 menit dengan suhu 180 derajat. Pastikan oven sudah dipanaskan sebelumnya.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="name8">Bolu Pir</string>
+    <string name="ingredient8">1. 4 Telur\n2.150 gr Gula\n3. 150 gr Margarin leleh\n4. 200 gr Tepung Terigu\n5. 2 buah pir(atau apel) yang sudah diiris\n6. 70 gr Kismis\n7. 1 sdt baking powder\n8. Sedikit bubuk kayu manis</string>
+    <string name="instruction8">1. Mixer telur dan gula hingga adonan berbusa\n2. Masukkan tepung, baking powder, dan margarin lalu mixer dengan kecepatan rendah .\n3. Tuang ke loyang yang sudah diolesi carlo\n4. Beri apel, susun memutar. Tambahkan kismis dan taburi bubuk kayu manis secukupnya.\n6. Panggang di oven selama 40 menit dengan suhu 180 derajat. Pastikan oven sudah dipanaskan sebelumnya.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="name9">Chocochip Cookies</string>
+    <string name="ingredient9">1. 1 Telur\n2.80 gr Gula pasir/brown sugar/ gula jawa\n3. 113 gr Margarin\n4. 192 gr Tepung Terigu\n5. 1 sdt baking powder\n6. Chocochips\n7. Sejumput garam</string>
+    <string name="instruction9">1. Haluskan gula dan margarin pakai spatula\n2. Masukkan telur, kocok pakai whisk\n3. Masukkan terigu dan baking powder sambil diayak\n4. Tambahkan chocochips\n5. Masukkan adonan ke kulkas kurang lebih 30 menit.\n6. Ambil 1 sdm adonan lalu bulatkan\n7. Panggang di oven selama 15 menit dengan suhu 200 derajat. Pastikan oven sudah dipanaskan sebelumnya.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="name10">Chocolate Muffin</string>
+    <string name="ingredient10">1. 2 Telur\n2.180 gr Gula pasir/gula palem\n3. 75 gr Margarin\n4. 125 gr Tepung Terigu\n5. 50 gr Maizena\n6. 3 sdm cokelat bubuk\n7. 225 ml susu cair\n8. 125 gr cokelat blok\n9. 75 ml minyak\n10. 1 sdt bpda\n11. chocochips</string>
+    <string name="instruction10">1. Masak susu, gula, maizena, dan cokelat bubuk di api kecil. Aduk pakai whisk hingga meletup kecil, kental, dan licin.\n2. Matikan api, masukkan telur dan minyak, aduk sampai rata.\n3. Masukkan terigu dan baking powder yang sudah diayak, aduk rata.\n4. Tuang adonan ke cup muffin, beri taburan chocochips\n5. Panggang di oven selama 30 menit dengan suhu 180 derajat. Pastikan oven sudah dipanaskan sebelumnya.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="name11">Donat Kentang</string>
+    <string name="ingredient11">1. 2 Kuning Telur\n2.50 gr Gula halus\n3. 30 gr Margarin\n4. 250 gr Tepung Cakra\n5. 100 gr kentang kukus, haluskan\n6. 50 ml air dingin\n7. 1 sdt ragi\n8. 25 gr susu bubuk\n9. ¼ sdt garam</string>
+    <string name="instruction11">1. Campur semua bahan kering, tambahkan kuning telur, aduk rata\n2. Masukkan kentang, aduk rata kembali\n3. Masukkan air dingin sedikit demi sedikit, dan ulen hingga agak kalis\n4. Masukkan margarin dan garam, ulen hingga kalis elastis\n5. Diamkan adonan hingga mengembang 2 kali lipat\n6. Kempeskan adonan untuk membuang gas, lalu bagi adonan sesuai selera.\n7. Bulati adonan, agak pipihkan dan lubangi tengahnya.\n8. Goreng di minyak panas dengan api sedang.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="name12">Es Jelly Susu</string>
+    <string name="ingredient12">1. Aneka Jelly berbagai rasa\n2.1 kaleng susu evaporasi\n3. ½ kaleng kental manis\n4. 3 sdm Selasih\n5. Air\n6. ¼ sdt garam</string>
+    <string name="instruction12">1. Masak jelly sesuai petunjuk kemasan\n2. Setelah jelly dingin, potong-potong jelly\n3. Tuang susu evaporasi, kental manis, garam dan air. Aduk rata\n4. Masukkan ke kulkas. Lebih enak sajikan dingin.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="name13">Japanese Cotton Cheesecake</string>
+    <string name="ingredient13">1. 1 kotak keju cheddar parut/keju oles\n2.3 kuning telur\n3. 20 gr margarin\n4. 30 gr Tepung Terigu\n5. 10 gr Maizena\n6. 50 ml susu cair\n7. 3 butir putih telur\n7. 1 sdm perasan lemon/jeruk nipis\n8.75 gr gula halus</string>
+    <string name="instruction13">1. Masak susu, margarin, dan keju dengan metode double boiler hingga larut dan tidak bergerindil.\n2. Ayak tepung, masukkan ke campuran susu. Aduk rata.\n3. Setelah dingin, masukkan kuning telur, aduk rata.\n4. Mixer putih telur, perasan lemon, dan gula hingga soft peak\n5. Tuang bertahap adonan putih telur ke adonan kuning telur. Aduk balik hingga rata.\n6. Tuang adonan ke loyang yang sudah diberi carlo.\n7. Panggang dengan metode au bain marie/water bath selama 50 menit dengan suhu 160 derajat api atas bawah, lanjut 10 menit api atas\n8. Setelah matang, biarkan kue dalam oven kurang lebih 10 mneit dengan pintu oven dibuka sedikit.\n9. Sajikan dingin lebih nikmat. </string>
+
+    <string name="day14">Day 14</string>
+    <string name="name14">Klapertart Panggang</string>
+    <string name="ingredient14">1. 2 kuning telur\n2.80 gr gula pasir\n3. 55 gr tepung maizena\n4. 250 ml air kelapa\n5. 350 ml susu cair\n6. 200 gr daging kelapa muda(potong-potong)\n7. 2 sdm margarin\n7. 1 sdt vanilla essence\n8.¼ sdt garam\nMeringue:\n9. 2 butir putih telur\n10. 1 sdt vanilla essence\n11. 1 sdm gula\n12. ½ sdt perasan jeruk nipis\n13. kismis dan bubuk kayu manis untuk toping</string>
+    <string name="instruction14">1. Campur semua bahan kecuali meringue dan toping, lalu saring\n2. Masak hingga kental dan meletup, tambahkan margarin, aduk rata.\n3. Masukkan potongan daging kelapa, dan kismis, aduk rata, matikan api.\n4. Mixer putih telur, perasan jeruk nipis, vanila, dan gula hingga soft peak\n5. Tuang adonan kuning telur ke wadah(alumunium foil), lalu tuang adonan meringue, beri toping.\n6. Panggang dengan metode au bain marie/water bath selama 15 menit dengan suhu 170 derajat\n8. Sajikan dingin lebih nikmat. </string>
+
+    <string name="day15">Day 15</string>
+    <string name="name15">Lapis Tapioka</string>
+    <string name="ingredient15">1. 1 L santan\n2.300 ml air rebusan pandan+daun jeruk\n3. 450 gr gula\n4. 400 gr tepung tapioka\n5. 100 gr tepung beras\n6. 1 sdt garam\n7. Pewarna makanan</string>
+    <string name="instruction15">1. Campur semua bahan kecuali pewarna, lalu saring\n2. Bagi adonan lalu beri pewarna masing-masing.\n3. Panaskan kukusan, oles cetakan dengan minyak.\n4. Tuang adonan per bagian, masing-masing kukus selama 5 menit\n4. Untuk adonan terakhir kukus 15 menit agar semua lapisan matang\n5. Angkat, tunggu dingin lalu keluarkan dari cetakan.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="name16">Lasagna Panggang</string>
+    <string name="ingredient16">1. 10 lembar pasta lasagna\n2.5 buah sosis\n3. 1 buah wortel\n4. 1 buah bawang bombay\n5. 2 siung bawang putih\n6. 100 ml susu cair\n7. 150 gr saus tomat\n8. 1 sdt Italian seasoning\n9. Secukupnya kaldu, lada, dan garam\nBechamel Sauce:\n10. 1 sdm margarin\n11.2sdm terigu\n13. 400 ml susu cair\n14. 1 sdt bubuk pala\n15. secukupnya keju parut(parmesan/cheddar)</string>
+    <string name="instruction16">1. Tumis bawang bombay, bawang putih, wortel, dan sosis.\n2.Masukkan susu, saus, dan bumbu-bumbu.\n3. Masak hingga agak menyusut, matikan api.\n4. Tuang adonan per bagian, masing-masing kukus selama 5 menit\n4. Untuk adonan terakhir kukus 15 menit agar semua lapisan matang\n5. Angkat, tunggu dingin lalu keluarkan dari cetakan.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="name17">Lemon Cookies</string>
+    <string name="ingredient17">1. 1 Telur\n2.80 gr Gula pasir\n3. 113 gr Margarin\n4. 192 gr Tepung Terigu\n5. 1 sdt baking powder\n6. 1 sdt lemon juice\n7. lemon zest\n8. sejumput garam\n9. Tepung gula</string>
+    <string name="instruction17">1. Haluskan gula dan margarin pakai spatula\n2. Masukkan telur, kocok pakai whisk\n3. Masukkan lemon zest, jus lemon, dan garam, lalu kocok lagi\n4. Masukkan terigu dan baking powder sambil diayak\n5. Beri pewarna dan perasa lemon\n6. Masukkan adonan ke kulkas kurang lebih 30 menit.\n7. Ambil 1 sdm adonan lalu gulingkan di tepung gula\n7. Panggang di oven selama 15 menit dengan suhu 200 derajat. Pastikan oven sudah dipanaskan sebelumnya.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="name18">Macaroni Schotel</string>
+    <string name="ingredient18">1. 200 gr macaroni rebus\n2.5 buah sosis\n3. 1 buah wortel\n4. 1 buah bawang bombay\n5. 4 telur\n6. 350 ml susu cair\n7. 150 gr keju parut\n8. 1 sdt Italian seasoning\n9. Secukupnya kaldu, pala bubuk, dan garam\nSaus Putih:\n10. 1 sdm margarin\n11.2sdm terigu\n13. 300 ml susu cair\n14. 150 gr keju parut</string>
+    <string name="instruction18">1. Tumis bawang bombay, bawang putih, wortel, dan sosis.\n2. Masukkan macaroni dan keju, aduk rata.\n3.Masukkan susu, telur, dan bumbu-bumbu.\n3. Masak sekitar 5 menit, matikan api.\n4. Membuat saus putih: Panaskan margarin, masukkan terigu aduk cepat. Segera tuang susu dan keju, masak di api kecil hingga mengental dan keju larut.\n5. Tempatkan macaroni di wadah tahan panas, siram dengan saus putih, taburi dengan keju parut+Italian Seasoning.\n6. Panggang di suhu 180 derajat selama 40 menit.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="name19">Homemade Noodle</string>
+    <string name="ingredient19">1. 450 gr terigu\n2.200 ml air\n3. 1 ½ sdm minyak\n4. 2 sdt garam\n5. Secukupnya maizena</string>
+    <string name="instruction19">1. Campur terigu dan garam, aduk rata\n2. Masukkan air dan minyak, uleni hingga adonan menyatu.\n3. Baluri maizena, istirahatkan 3o menit.\n4. Gilas tipis adonan, ulangi 3x untuk hasil lebih lentur. Masukkan wadah, letak kulkas semalaman.\n5. Lipat-lipat adonan, lalu potong sesuai selera\n6. Siap direbus sebentar.</string>
+
+    <string name="day20">Day 20</string>
+    <string name="name20">Milo Dinosaur</string>
+    <string name="ingredient20">1. 2 sachet Milo\n2.1 sdm Kental Manis\n3. secukupnya Susu cair\n4. Es Batu\n5. Air Panas</string>
+    <string name="instruction20">1. Larutkan 1 sachet milo dengan air panas.\n2. Tambahkan kental manis, aduk rata.\n3. Tambahkan susu cair, beri es batu\n4. Tabur milo di atasnya\n5. Siap dinikmati.</string>
+
+    <string name="day21">Day 21</string>
+    <string name="name21">Nasi Briyani</string>
+    <string name="ingredient21">1. 1 kg beras basmati\n2.1 kg daging kambing\n3. 1 buah bawang bombay iris memanjang\n4. 100 ml santan kental\n5. 6 sdm minyak goreng\nBumbu Halus:\n1. 10 siung bawang putih iris\n2. 1 jempol jahe\n3. 1 sdm ketumbar\n4. ½ sdm jinten\n5.  ½ sdm lada hitam\n6. 1 sdm kunyit bubuk\n7. 1 sdm kayu manis bubuk\n8. ½ butir pala\n9. secukupnya garam\nBumbu Lain:\n1. 5 buah bunga lawang\n2. 10 buah kapulaga\n3. 5 buah daun jeruk\n4. 10 buah cengkeh\nBahakn Pelengkap:\n1. 2 buah cabai hijau, iris miring\n2. secukupnya kismis</string>
+    <string name="instruction21">1. Cuci bersih beras, tiriskan.\n2. Tumis bombay, bumbu halus, dan bumbu lain hingga harum\n3. Masukkan kambing, masak lagi hingga daging berubah warna.\n4. Masukkan air hingga daging terendam, masak hingga empuk.\n5. Masukkan santan dan beras, tambahkan garam.\n6. Masak hingga nasi matang.\n7. Taburkan kismis dan cabai hijau pada nasi, sajikan.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="name22">Pempek Tenggiri</string>
+    <string name="ingredient22">1. 250 gr daging tenggiri\n2.250 gr tepung sagu/tapioka\n3. 1 butir telur\n4. 4 buah bawang merah\n5. 3 siung bawang putih\n4. 100 ml air es\n5. 1 sdt lada\n6. 1 sdt garam\n4. 3 sdm terigu</string>
+    <string name="instruction22">1. Haluskan daging tenggiri, air es, garam, dan lada.\n2. Masukan bawang, aduk rata, lalu masukkan ke kulkas min.30 menit\n3. Masukkan telur, aduk rata.\n4. Tambahkan tepung sagu dan terigu,haluskan lagi.\n5. Bentuk lenjer atau bulat sesuai selera.\n6. Rebus hingga mengapung, tiriskan.\n7. Goreng di minyak panas, sajikan dengan kuah cuko.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="name23">Pizza Dough</string>
+    <string name="ingredient23">1. 1 sdt ragi\n2. 1 sdm gula\n3. 125 ml air hangat\n4. 215 gr tepung terigu\n5. 20 ml minyak\n4. ½ sdt garam</string>
+    <string name="instruction23">1. Larutkan ragi dan gula dengan air hangat, diamkan hingga berbusa.\n2. Masukan terigu, garam, dan air ragi, aduk rata.\n3. Tambahkan minyak lalu uleni hingga kalis, bentuk bulat lalu diamkan hingga mengembang 2x lipat.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="name24">Puding Jagung</string>
+    <string name="ingredient24">1. 2 bonggol jagung\n2. 100 ml santan\n3. 500 ml air\n4. 1 sachet agar-agar\n5. 120 gr gula\n4. sejumput garam</string>
+    <string name="instruction24">1. Blender jagung yang sudah dipipil dengan air. Lalu saring dan peras\n2. Larutkan agar-agar dengan santan, lalu tuang ke jus jagung.\n3. Masukkan gula dan garam, masak hingga mendidih.\n4. Tuang adonan ke cetakan, tunggu hingga agak set, masukkan ke kulkas.\n5. Sajikan dingin lebih enak.</string>
+
+    <string name="day25">Day 25</string>
+    <string name="name25">Salad Buah</string>
+    <string name="ingredient25">1. Aneka buah\n2. 200 ml yoghurt\n3. 15 gr kental manis\n4. 100 gr mayonaise\n5. Secukupnya keju parut</string>
+    <string name="instruction25">1. Potong-potong buah sesuai selera\n2. Campur yoghurt, kental manis, dan mayonaise. Aduk rata.\n3. Tuang campuran yoghurt ke buah-buahan, aduk rata\n5. Beri taburan keju.\n6. Sajikan dingin lebih nikmat.</string>
+
+    <string name="day26">Day 26</string>
+    <string name="name26">Setup Roti Tawar</string>
+    <string name="ingredient26">1. Secukupnya roti tawar\nVla:\n2. 250 ml susu cair\n3. 250 whipping cream/santan\n4. 2 sdm gula\n5. 1 sachet kental manis\n6. 50 gr keju parut\n7. sejumput garam\n8. 1 sdt vanilla essence\n9. 1 ½ sdm maizena, larutkan dengan sedikit air\n10. Secukupnya kismis dan keju parut sebagai toping</string>
+    <string name="instruction26">1. Campur semua bahan kecuali roti dan maizena.\n2. Masak hingga mendidih, lalu tuang larutan maizena.\n3. Aduk rata hingga mengental, matikan api.\n5. Potong-potong roti, tempatkan di wadah.\n6. Siram dengan vla, taburi toping.\n7. Sajikan dingin lebih nikmat.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="name27">Sushi Ekonomis</string>
+    <string name="ingredient27">1. 1 lembar nori\n2. secukupnya nasi hangat pulen\n3. secukupnya minyak wijen\n4. 1 buah wortel\n5. 2 buah sosis\n6. 1 butir telur\n7. secukupnya mayonais\n8.secukupnya saus sambal</string>
+    <string name="instruction27">1. Potong memanjang wortel.\n2. Goreng sosis, potong 2 memanjang.\n3. Buat telur dadar.\n4. Campur nasi dengan minyak wijen\n5. Siapkan nori, beri nasi, telur, wortel, dan sosis.\n6. Gulung sushi perlahan.\n7. Potong-potong sushi, sajikan dengan mayonaise dan saus sambal.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="name28">Takoyaki</string>
+    <string name="ingredient28">1. 1 butir telur\n2. 100 gr terigu\n3. 340 ml air dingin\n4. 1 sdt dashi\n5. 1 sdm kecap asin\n6. secukupnya garam dan lada\nIsian:\nDaun bawang, sosis/gurita rebus\nToping:\nNori flakes, katsuobushi, saus takoyaki, dan mayonaise</string>
+    <string name="instruction28">1. Campur semua bahan, aduk rata hingga tidak ada yang menggumpal.\n2. Tuang adonan ke cetakan takoyaki yang sudah diberi minyak.\n3. Beri isian, tunggu sebentar hingga berkulit, balik separuh lalu tuang lagi adonan.\n4. Balik-balik adonan hingga terbentuk bulatan.\n5. Goreng hingga kecoklatan.\n6. Angkat, taburi dengan toping.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="name29">Tomyam</string>
+    <string name="ingredient29">Bumbu halus:\n1. 5 siung bawang merah\n2. 5 siung bawang putih\n3. 15 buah cabe rawit\nBumbu Lain:\n1. 3 sdm bumbu tomyam Mamata Brand\n2. 1 buah serai, digeprek\n3. 1 jari  kelingking lengkuas\n4. 7 lembar daun jeruk\n5. Air\nIsian:\nfish dumpling, jamur enoki, udang</string>
+    <string name="instruction29">1. Tumis bumbu halus, dan bumbu lain hingga wangi, sisihkan\n2. Di wajan bekas menumis, rebus kepala dan kulit udang hingga mendidih.\n3. Saring kulit dan kepala udang, masukkan bumbu yang sudah ditumis.\n4. Masukkan udang, beri penyedap rasa.\n5. Masukkan berbagai isian, dan masak sebentar.\n6. Koreksi rasa, sajikan.</string>
+
+    <string name="day30">Day 30</string>
+    <string name="name30">Nugget Tahu</string>
+    <string name="ingredient30">1. 500 gr tahu\n2. 1 buah wortel\n3. 4 sdm terigu\n4. 1 batang daun bawang\n5. 1 butir telur\n6. 4 siung bawang putih\n7. 1 sdt lada\n8. 1 sdm penyedap rasa\n9. Bahan pencelup: terigu, kaldu, air\n10. Secukupnya tepung panir</string>
+    <string name="instruction30">1. Haluskan tahu, parut wortel dan bawang putih, iris daun bawang.\n2. Masukkan semua bahan ke wadah, aduk rata\n3. Tuang ke loyang yang sudah diminyaki, kukus selama 30 menit.\n4. Jika sudah dingin, potong-potong nugget.\n5. Masukkan nugget satu persatu ke bahan pencelup, lalu baluri dengan tepung panir\n6. Bisa simpan di freezer atau langsung digoreng.</string>
+
+</resources>
